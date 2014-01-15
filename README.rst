@@ -7,7 +7,7 @@ What i have done
 ----------------
 
 - generated suit locale files
-- compared with `django.contrib.admin` locale files and removed duplicates
+- compared with ``django.contrib.admin`` locale files and removed duplicates
 - compared with the supported packages and removed duplicates
 - left the translations that do not maintain their own translation process
 - left the translations that are from maintained packages but i did not found them
@@ -25,7 +25,7 @@ django-filer
     Translate at Transifex https://www.transifex.com/projects/p/django-filer/.
 
 django-import-export
-    They are translated in this repository.
+    This package is not localized, so translation is included in this repository.
 
 Localize 
 --------
@@ -37,7 +37,7 @@ Installation
 
 - Install easily using pip:
 
-    pip install django-suit-locale
+        pip install django-suit-locale
 
 - Add ``suitlocale`` to your ``INSTALLED_APPS`` settings::
 
