@@ -37,12 +37,16 @@ Installation
 
 - Install easily using pip:
 
-        pip install django-suit-locale
+.. code-block:: bash
+
+    pip install django-suit-locale
 
 - Add ``suitlocale`` to your ``INSTALLED_APPS`` settings::
 
-        INSTALLED_APPS = (
-            ...
-            'suitlocale',
-            'suit',
-        )
+.. code-block:: bash
+
+    INSTALLED_APPS = (
+        ...
+        'suitlocale',
+        'suit',
+    )
