@@ -30,7 +30,7 @@ django-filer
 django-import-export
     This package is not localized, so translation is included in this repository.
 
-Localize 
+Localize
 --------
 
 Use Transifex to translate to your language https://www.transifex.com/projects/p/django-suit-locale/.
@@ -44,7 +44,7 @@ Installation
 
     pip install django-suit-locale
 
-* Add ``suitlocale`` to your ``INSTALLED_APPS`` settings::
+* Add ``suitlocale`` to your ``INSTALLED_APPS`` settings:
 
 .. code-block:: python
 
