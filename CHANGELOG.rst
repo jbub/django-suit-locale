@@ -1,6 +1,13 @@
 Changelog
 =========
 
+Version 1.0.2
+-------------
+
+* Added French translation
+* Fix README rst syntax
+* Some new badges in README
+
 Version 1.0.1
 -------------
 

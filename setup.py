@@ -6,7 +6,7 @@ with open('README.rst') as fp:
 setup(
     name='django-suit-locale',
     url='https://github.com/jbub/django-suit-locale',
-    version='1.0.1',
+    version='1.0.2',
     license='BSD',
     description='Django Suit localization.',
     long_description=LONG_DESC,
