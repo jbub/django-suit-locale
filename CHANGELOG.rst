@@ -1,6 +1,11 @@
 Changelog
 =========
 
+Version 1.0.3
+-------------
+
+* Added Turkish translation
+
 Version 1.0.2
 -------------
 
