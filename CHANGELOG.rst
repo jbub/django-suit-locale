@@ -1,6 +1,12 @@
 Changelog
 =========
 
+Version 1.0.4
+-------------
+
+* Added Polish translation
+* Updated French translation
+
 Version 1.0.3
 -------------
 
