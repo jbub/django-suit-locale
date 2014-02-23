@@ -1,6 +1,11 @@
 Changelog
 =========
 
+Version 1.0.5
+-------------
+
+* Added Russian translation
+
 Version 1.0.4
 -------------
 
