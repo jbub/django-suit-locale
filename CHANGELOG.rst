@@ -1,6 +1,11 @@
 Changelog
 =========
 
+Version 1.0.6
+-------------
+
+* Added Spanish translation
+
 Version 1.0.5
 -------------
 
