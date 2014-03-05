@@ -1,6 +1,11 @@
 Changelog
 =========
 
+Version 1.0.7
+-------------
+
+* Update Polish translation
+
 Version 1.0.6
 -------------
 
