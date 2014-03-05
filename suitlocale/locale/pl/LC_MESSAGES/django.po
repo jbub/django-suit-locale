@@ -1,24 +1,25 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-# 
+#
 # Translators:
 # Translators:
-# dex4er <piotr.roszatycki@gmail.com>, 2014
 # dex4er <piotr.roszatycki@gmail.com>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: django-suit-locale\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-01-14 17:57+0100\n"
-"PO-Revision-Date: 2014-02-19 15:21+0000\n"
+"PO-Revision-Date: 2014-02-19 13:03+0000\n"
 "Last-Translator: dex4er <piotr.roszatycki@gmail.com>\n"
-"Language-Team: Polish (http://www.transifex.com/projects/p/django-suit-locale/language/pl/)\n"
+"Language-Team: Polish (http://www.transifex.com/projects/p/django-suit-"
+"locale/language/pl/)\n"
+"Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: pl\n"
-"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2);\n"
 
 #: templates/403.html:4
 msgid "forbidden"
@@ -38,7 +39,8 @@ msgstr "Ta akcja wymaga odpowiednich uprawnień"
 msgid ""
 "Select all %(total_count)s\n"
 "                    %(module_name)s"
-msgstr "Zaznacz wszystkie %(total_count)s\n                    %(module_name)s"
+msgstr "Zaznacz wszystkie %(total_count)s\n"
+"                    %(module_name)s"
 
 #: templates/admin/change_form.html:21
 msgid "You have unsaved changes"
@@ -94,7 +96,9 @@ msgstr "Lista dostępnych tabel dla aplikacji %(name)s."
 msgid ""
 "\n"
 "                %(name)s"
-msgstr "\n                %(name)s"
+msgstr ""
+"\n"
+"                %(name)s"
 
 #: templates/admin/index.html:70
 msgid "added"
@@ -158,9 +162,11 @@ msgstr "Wycofaj do upublicznionej wersji"
 
 #: templates/admin/filer/delete_selected_files_confirmation.html:30
 msgid ""
-"<p>Are you sure you want to delete the selected files and/or folders? All of"
-" the following objects and their related items will be deleted:</p>"
-msgstr "<p>Czy na pewno usunąć wybrane pliki i/lub katalogi? Następujące pozycje zostaną usunięte:</p>"
+"<p>Are you sure you want to delete the selected files and/or folders? All of "
+"the following objects and their related items will be deleted:</p>"
+msgstr ""
+"<p>Czy na pewno usunąć wybrane pliki i/lub katalogi? Następujące pozycje "
+"zostaną usunięte:</p>"
 
 #: templates/admin/import_export/change_list_export.html:5
 #: templates/admin/import_export/change_list_import_export.html:6
