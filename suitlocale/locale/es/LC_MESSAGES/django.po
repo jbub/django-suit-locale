@@ -1,0 +1,203 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# Translators:
+# ernesto.ulloa <ernestoulloa@gmail.com>, 2014
+msgid ""
+msgstr ""
+"Project-Id-Version: django-suit-locale\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-01-14 17:57+0100\n"
+"PO-Revision-Date: 2014-03-04 22:23+0000\n"
+"Last-Translator: ernesto.ulloa <ernestoulloa@gmail.com>\n"
+"Language-Team: Spanish (http://www.transifex.com/projects/p/django-suit-locale/language/es/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: templates/403.html:4
+msgid "forbidden"
+msgstr "prohibido"
+
+#: templates/403.html:6 templates/404.html:6 templates/500.html:6
+#: templates/suit/error_base.html:76
+msgid "error"
+msgstr "error"
+
+#: templates/403.html:9
+msgid "We're sorry, but the requested action is forbidden"
+msgstr "Lo sentimos, pero esa acción está prohibida"
+
+#: templates/admin/actions.html:23
+#, python-format
+msgid ""
+"Select all %(total_count)s\n"
+"                    %(module_name)s"
+msgstr "Seleccionar todos %(total_count)s\n                    %(module_name)s"
+
+#: templates/admin/change_form.html:21
+msgid "You have unsaved changes"
+msgstr "Tienes cambios sin guardar"
+
+#: templates/admin/change_form.html:98
+#: templates/admin/filer/image/change_form.html:7
+msgid "tools"
+msgstr "herramientas"
+
+#: templates/admin/change_form.html:141 templates/admin/change_list.html:86
+#: templates/admin/login.html:27
+#: templates/admin/auth/user/change_password.html:45
+#: templates/admin/cms/page/change_form.html:137
+#: templates/admin/cms/page/plugin_change_form.html:99
+#: templates/admin/filer/folder/new_folder_form.html:10
+#: templates/registration/password_change_form.html:44
+msgid "Please correct the error below."
+msgid_plural " Please correct the errors below."
+msgstr[0] "Por favor corrija el siguiente error."
+msgstr[1] "Por favor corrija los siguientes errores."
+
+#: templates/admin/change_list.html:109
+msgid "Nothing found"
+msgstr "Nada encontrado"
+
+#: templates/admin/change_list.html:111
+msgid "Reset search and filters"
+msgstr "Resetear filtros y búsquedas"
+
+#: templates/admin/change_list.html:113
+#, python-format
+msgid "%(name_plural)s are not created yet"
+msgstr "%(name_plural)s no han sido creados aún"
+
+#: templates/admin/change_list_results.html:19
+#, python-format
+msgid "Sorting priority: %(priority_number)s"
+msgstr "Prioridad de ordenamiento: %(priority_number)s"
+
+#: templates/admin/delete_selected_confirmation.html:51
+msgid "Confirm deletion"
+msgstr "Confirmar eliminación"
+
+#: templates/admin/index.html:19
+#, python-format
+msgid "Models available in the %(name)s application."
+msgstr "Modelos disponibles en la aplicación %(name)s ."
+
+#: templates/admin/index.html:21
+#, python-format
+msgid ""
+"\n"
+"                %(name)s"
+msgstr "\n                %(name)s"
+
+#: templates/admin/index.html:70
+msgid "added"
+msgstr "añadido"
+
+#: templates/admin/index.html:71
+msgid "changed"
+msgstr "cambiado"
+
+#: templates/admin/index.html:72
+msgid "deleted"
+msgstr "eliminado"
+
+#: templates/admin/login.html:44
+msgid "Username"
+msgstr "Usuario"
+
+#: templates/admin/page_submit_line.html:14
+#, python-format
+msgid "Delete %(language)s translation"
+msgstr "Eliminar traducción %(language)s "
+
+#: templates/admin/pagination.html:26
+msgid "Show all"
+msgstr "Mostrar todos"
+
+#: templates/admin/search_form.html:7
+msgid "keyword"
+msgstr "palabra clave"
+
+#: templates/admin/search_form.html:30
+#, python-format
+msgid " %(full_result_count)s total"
+msgstr "total %(full_result_count)s"
+
+#: templates/admin/cms/page/change_form.html:64
+msgid "Confirm delete"
+msgstr "Confirmar eliminación"
+
+#: templates/admin/cms/page/change_form.html:65
+msgid "Remove delete request"
+msgstr "Eliminar petición de eliminación"
+
+#: templates/admin/cms/page/change_form.html:68
+msgid "Confirm page deletion"
+msgstr "Confirmar eliminación de página"
+
+#: templates/admin/cms/page/change_form.html:97
+#: templates/admin/cms/page/change_form.html:98
+msgid "draft"
+msgstr "borrador"
+
+#: templates/admin/cms/page/change_form.html:98
+#: templates/admin/import_export/import.html:51
+msgid "Preview"
+msgstr "Vista Previa"
+
+#: templates/admin/cms/page/change_form.html:100
+msgid "Revert to public"
+msgstr "Regresar a público"
+
+#: templates/admin/filer/delete_selected_files_confirmation.html:30
+msgid ""
+"<p>Are you sure you want to delete the selected files and/or folders? All of"
+" the following objects and their related items will be deleted:</p>"
+msgstr "<p>¿Está seguro que desea eliminar los siguientes ficheros y/o carpetas? Todos los siguientes objetos y sus elementos relacionados serán eliminados:</p>"
+
+#: templates/admin/import_export/change_list_export.html:5
+#: templates/admin/import_export/change_list_import_export.html:6
+#: templates/admin/import_export/export.html:5
+#: templates/admin/import_export/export.html:12
+msgid "Export"
+msgstr "Exportar"
+
+#: templates/admin/import_export/change_list_import.html:5
+#: templates/admin/import_export/change_list_import_export.html:5
+#: templates/admin/import_export/import.html:6
+#: templates/admin/import_export/import.html:25
+msgid "Import"
+msgstr "Importar"
+
+#: templates/admin/import_export/import.html:17
+msgid "This importer will import the following fields: "
+msgstr "Este importador importará los siguientes campos:"
+
+#: templates/admin/import_export/import.html:34
+msgid "Errors"
+msgstr "Errores"
+
+#: templates/admin/import_export/import.html:42
+msgid "Line number"
+msgstr "Número de línea"
+
+#: templates/admin/import_export/import.html:65
+msgid "New"
+msgstr "Nuevo"
+
+#: templates/admin/import_export/import.html:67
+msgid "Skipped"
+msgstr "Omitido"
+
+#: templates/admin/import_export/import.html:71
+msgid "Update"
+msgstr "Actualizar"
+
+#: templates/admin/import_export/import.html:90
+msgid "Confirm import"
+msgstr "Confirmar importación"
