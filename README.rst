@@ -42,7 +42,18 @@ django-import-export
 Localize
 --------
 
-Use Transifex to translate to your language https://www.transifex.com/projects/p/django-suit-locale/.
+Use Transifex to translate to your language https://www.transifex.com/projects/p/django-suit-locale/ or send a pull request with locale files.
+
+Translators
+-----------
+
+* es - ernesto.ulloa
+* fr - champsavoir
+* ru - eu
+* tr - erhansiraci
+* pt_BR - mpena2099
+* pl - dex4er
+* sk, cs - jbub
 
 Installation
 ------------
