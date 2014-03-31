@@ -1,6 +1,13 @@
 Changelog
 =========
 
+Version 1.0.9
+-------------
+
+* Update Brazilian Portuguese translation
+* Add translators list to README
+* Add Makefile for common tasks
+
 Version 1.0.8
 -------------
 
