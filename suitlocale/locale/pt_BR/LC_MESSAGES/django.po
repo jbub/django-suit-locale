@@ -44,7 +44,7 @@ msgstr "Voce tem alterações não salvas"
 #: templates/admin/change_form.html:98
 #: templates/admin/filer/image/change_form.html:7
 msgid "tools"
-msgstr "feramentas"
+msgstr "ferramentas"
 
 #: templates/admin/change_form.html:141 templates/admin/change_list.html:86
 #: templates/admin/login.html:27
