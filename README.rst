@@ -37,7 +37,7 @@ django-filer
     Translate at Transifex https://www.transifex.com/projects/p/django-filer/.
 
 django-import-export
-    This package is not localized, so translation is included in this repository.
+    This package is now translated, head over to https://github.com/bmihelac/django-import-export, fork and translate. I will keep the translations in this repository to give people some time to translate it. We will then remove the strings from this repository.
 
 Localize
 --------
