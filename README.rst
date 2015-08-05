@@ -1,16 +1,16 @@
 django-suit-locale
 ==================
 
-.. image:: https://pypip.in/v/django-suit-locale/badge.png?v109
+.. image:: https://img.shields.io/pypi/dm/django-suit-locale.svg
     :target: https://pypi.python.org/pypi/django-suit-locale/
 
-.. image:: https://pypip.in/d/django-suit-locale/badge.png?v109
+.. image:: https://img.shields.io/pypi/dw/django-suit-locale.svg
     :target: https://pypi.python.org/pypi/django-suit-locale/
 
-.. image:: https://pypip.in/wheel/django-suit-locale/badge.png?v109
+.. image:: https://img.shields.io/pypi/dd/django-suit-locale.svg
     :target: https://pypi.python.org/pypi/django-suit-locale/
 
-.. image:: https://pypip.in/license/django-suit-locale/badge.png?v109
+.. image:: https://img.shields.io/github/license/jbub/django-suit-locale.svg
     :target: https://pypi.python.org/pypi/django-suit-locale/
 
 The aim of this project is to bring better localization process for Django Suit (http://djangosuit.com/).
