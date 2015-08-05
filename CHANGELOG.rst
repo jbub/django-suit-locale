@@ -1,6 +1,13 @@
 Changelog
 =========
 
+Version 1.0.10
+-------------
+
+* Add Spanish (Argentina) translation
+* Switch repo badges to use shields.io
+* Update LICENSE year
+
 Version 1.0.9
 -------------
 

@@ -53,6 +53,7 @@ Translators
 * tr - erhansiraci
 * pt_BR - mpena2099
 * pl - dex4er
+* es_AR - gonzalobustos
 * sk, cs - jbub
 
 Installation
